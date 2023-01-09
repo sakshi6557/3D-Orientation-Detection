@@ -1,6 +1,6 @@
 # 3D-Orientation-Detection
 
-Problem Statement 
+Problem Statement: 
 The goal of this assignment is to understand the use of sensors on the smartphone to design an app that produces the 3-D orientation of the phone when placed in your pocket. The key is to use a combination of the accelerometer, gyroscope, and compass on the phone to find the 3-D orientation of the device. 
 
 Layout: The app uses constraint layout with TextViews, Buttons and ImageView.
