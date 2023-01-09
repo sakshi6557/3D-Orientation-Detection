@@ -1,5 +1,8 @@
 *.iml
 .gradle
+.idea
+.gitignore
+Assignment1.apk
 /local.properties
 /.idea/caches
 /.idea/libraries
