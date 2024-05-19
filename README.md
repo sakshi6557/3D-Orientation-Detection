@@ -17,18 +17,5 @@ Along with these methods, I have implemented few more methods - get
 This application works better on connected android device than the emulator. I would request you to test it on connected android device.
 Place your phone on table and launch the application. When the application starts, click on Collect Data button to start collecting and storing the sensor data. Once this is done, click on the Get Orientation button to get the Pitch, Roll and Yaw values. The added image will start rotating as you move your phone.  
 
-# Limitation:
-The device needed for testing should be of Android version 8 or greater and there is some error in the final values due to the noise in the data received from the sensors. I was not able to fix the error. I’ll try to resolve the error in next version.
-
-# References:
-https://www.youtube.com/watch?v=p7tjtLkIlFo
-https://stackoverflow.com/questions/14513597/cannot-convert-from-double-to-float
-https://math.stackexchange.com/questions/2466949/get-magnetic-field-values-from-euler-angle
-https://arxiv.org/pdf/1704.06053.pdf
-https://www.youtube.com/watch?v=T9jXoG0QYIA
-https://www.youtube.com/watch?v=0rlvvYgmTvI
-https://arduino.stackexchange.com/questions/53478/what-is-corrrect-the-way-to-find-roll-pitch-yaw
-https://engineering.stackexchange.com/questions/3348/calculating-pitch-yaw-and-roll-from-mag-acc-and-gyro-data
-https://students.iitk.ac.in/roboclub/2017/12/21/Beginners-Guide-to-IMU.html
-
+# Check ReadMe.pdf for more details
 
