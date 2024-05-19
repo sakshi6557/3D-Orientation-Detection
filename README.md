@@ -1,4 +1,4 @@
-# 3D-Orientation-Detection
+# 3D Orientation Detection Application
 
 # Problem Statement: 
 The goal of this assignment is to understand the use of sensors on the smartphone to design an app that produces the 3-D orientation of the phone when placed in your pocket. The key is to use a combination of the accelerometer, gyroscope, and compass on the phone to find the 3-D orientation of the device. 
@@ -17,5 +17,5 @@ Along with these methods, I have implemented few more methods - get
 This application works better on connected android device than the emulator. I would request you to test it on connected android device.
 Place your phone on table and launch the application. When the application starts, click on Collect Data button to start collecting and storing the sensor data. Once this is done, click on the Get Orientation button to get the Pitch, Roll and Yaw values. The added image will start rotating as you move your phone.  
 
-# Check ReadMe.pdf for more details
+### Check ReadMe.pdf for more details
 
