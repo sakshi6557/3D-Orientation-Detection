@@ -18,5 +18,5 @@ This application works better on connected Android device than the emulator. Ple
 Place your phone on the table and launch the application. When the application starts, click on the Collect Data button to start collecting and storing the sensor data. Once this is done, click on the Get Orientation button to get the Pitch, Roll, and Yaw values. The added image will start rotating as you move your phone.  
 
 ### Check ReadMe.pdf for more details
-### Download the Assignment1.apk file to test the application on Android device
+### Download the 3D Orientation Detection.apk file to test the application on Android device
 
